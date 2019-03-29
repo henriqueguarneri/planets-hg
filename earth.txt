@@ -1,2 +1,7 @@
+Before
 The one and only for us (for now).
 The big blue dot.
+A new line in history.
+New line
+Another new line
+After
